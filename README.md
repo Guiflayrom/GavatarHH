@@ -4,7 +4,8 @@
 
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="Description_6"></a>Description</h2>
 <p class="has-line-data" data-line-start="7" data-line-end="8">The first project while studying the python graphics library, tkinter. Many organizations (such as in-game police departments) have used this program as an assistant when customizing their advertisements in formats such as banners, videos and animations.</p>
-</p> To use, you must choose ideal position for you, then enter your Habbo nickname and finally click in "Get Avatar", located in title and done.</p>
+</p> To use, you must choose ideal position for you, then enter your Habbo nickname and finally click in "Get Avatar", located in title and done.</p><br>
+
 <img src="https://i.imgur.com/BLgmKBx.png" alt=""><br>
 <img src="https://i.imgur.com/Go61Nqr.png" alt=""><br>
 <em>Output:</em><br>
