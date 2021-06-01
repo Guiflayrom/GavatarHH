@@ -18,10 +18,8 @@
   howpublished = {\url{https://github.com/Guiflayrom/GavatarHH},
   year =         {<span class="hljs-number">2021</span>}
 }
-
-<span class="hljs-comment">## License</span>
-
-MIT
-
-**Free Software, Hell Yeah!**
 </code></pre>
+
+<h2 class="code-line" data-line-start=29 data-line-end=30 ><a id="License_29"></a>License</h2>
+<p class="has-line-data" data-line-start="31" data-line-end="32">MIT</p>
+<p class="has-line-data" data-line-start="33" data-line-end="34"><strong>Free Software, Hell Yeah!</strong></p>
