@@ -14,8 +14,8 @@
 <p class="has-line-data" data-line-start="11" data-line-end="12">If you use this project in your research or wish to refer to the baseline results published in the README, please use the following BibTeX entry.</p>
 <pre><code class="has-line-data" data-line-start="14" data-line-end="26" class="language-bash">@misc{labelme2016,
   author =       {Guilherme D. Alves},
-  title =        {{labelme: getAvatar - Habbo Hotel}},
-  howpublished = {\url{https://github.com/Guiflayrom/getAvatar_Habbo_Hotel},
+  title =        {{labelme: Gavatar - Habbo Hotel}},
+  howpublished = {\url{https://github.com/Guiflayrom/GavatarHH},
   year =         {<span class="hljs-number">2021</span>}
 }
 
