@@ -13,7 +13,7 @@
 
 <h2 class="code-line" data-line-start=9 data-line-end=10 ><a id="Cite_This_Project_9"></a>Cite This Project</h2>
 <p class="has-line-data" data-line-start="11" data-line-end="12">If you use this project in your research or wish to refer to the baseline results published in the README, please use the following BibTeX entry.</p>
-<pre><code class="has-line-data" data-line-start="14" data-line-end="26" class="language-bash">@misc{labelme2016,
+<pre><code class="has-line-data" data-line-start="14" data-line-end="26" class="language-bash">@misc{GavatarHH2021,
   author =       {Guilherme D. Alves},
   title =        {{labelme: Gavatar - Habbo Hotel}},
   howpublished = {\url{https://github.com/Guiflayrom/GavatarHH},
